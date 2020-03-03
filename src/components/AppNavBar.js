@@ -49,16 +49,16 @@ class AppNavbar extends Component {
 									<div className="menu-topmenu-container">
 										<ul className="menu">
 											<li className={(this.state.menuitem === 0) ? 'menu-item current-menu-item' : 'menu-item'}>
-												<Link to='/home' onClick={() => { this.changeditem(0); this.Closenav() }}>Home</Link>
+												<Link to='/portfolio/home' onClick={() => { this.changeditem(0); this.Closenav() }}>Home</Link>
 											</li>
 											<li className={(this.state.menuitem === 1) ? 'menu-item current-menu-item' : 'menu-item'}>
-												<Link to='/about' onClick={() => { this.changeditem(1); this.Closenav() }}>Resume</Link>
+												<Link to='/portfolio/about' onClick={() => { this.changeditem(1); this.Closenav() }}>Resume</Link>
 											</li>
 											<li className={(this.state.menuitem === 2) ? 'menu-item current-menu-item' : 'menu-item'}>
-												<Link to='/work' onClick={() => { this.changeditem(2); this.Closenav() }}>Works</Link>
+												<Link to='/portfolio/work' onClick={() => { this.changeditem(2); this.Closenav() }}>Works</Link>
 											</li>
 											<li className={(this.state.menuitem === 3) ? 'menu-item current-menu-item' : 'menu-item'}>
-												<Link to='/contact' onClick={() => { this.changeditem(3); this.Closenav() }}>Contact</Link>
+												<Link to='/portfolio/contact' onClick={() => { this.changeditem(3); this.Closenav() }}>Contact</Link>
 											</li>
 										</ul>
 									</div>

@@ -19,11 +19,11 @@ class App extends Component {
         <HashRouter>
           <div>
             <AppNavbar />
-            <Route exact path= "/" render={()=>(<Redirect to="/home"/>)}/>
-            <Route path= "/home" render={props => <Home key={Date.now()} {...props} />} />
-            <Route path= "/about" render={props => <About key={Date.now()} {...props} />} />
-            <Route path= "/work" render={props => <Work key={Date.now()} {...props} />} />
-            <Route path= "/contact" render={props => <Contact key={Date.now()} {...props} />} />
+            <Route exact path= "/" render={()=>(<Redirect to="/portfolio/home"/>)}/>
+            <Route path= "/portfolio/home" render={props => <Home key={Date.now()} {...props} />} />
+            <Route path= "/portfolio/about" render={props => <About key={Date.now()} {...props} />} />
+            <Route path= "/portfolio/work" render={props => <Work key={Date.now()} {...props} />} />
+            <Route path= "/portfolio/contact" render={props => <Contact key={Date.now()} {...props} />} />
             <Footer />
           </div>
         </HashRouter>
