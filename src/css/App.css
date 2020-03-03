@@ -365,7 +365,7 @@ h6 {
   color: #141414
 }
 
-h1 {
+/* h1 {
   font-size: 34px
 }
 
@@ -387,7 +387,7 @@ h5 {
 
 h6 {
   font-size: 14px
-}
+} */
 
 p {
   font-size: 16px;
@@ -400,7 +400,7 @@ strong {
 }
 
 @media screen and (max-width:720px) {
-  h1 {
+  /* h1 {
     font-size: 24px
   }
   h2 {
@@ -417,7 +417,7 @@ strong {
   }
   h6 {
     font-size: 13px
-  }
+  } */
   p {
     margin: 20px 0
   }
@@ -1086,8 +1086,8 @@ blockquote {
   position: absolute;
   overflow: hidden;
   top: 50%;
-  width: 150px;
-  font-size: 16px;
+  width: 170px;
+  font-size: 20px;
   line-height: 2.5;
   font-weight: 600;
   color: rgba(255, 255, 255, .5);
@@ -1140,7 +1140,7 @@ blockquote {
   position: relative;
   overflow: hidden;
   display: block;
-  font-size: 1em;
+  font-size: 20px;
   line-height: 2.5;
   color: #fff;
   font-weight: 600;
@@ -1578,10 +1578,10 @@ blockquote {
 .section.started .started-content .h-title {
   margin:0;
   position: absolute;
-  left: calc(50% + 200px);
+  left: calc(20% + 10px);
   bottom: 50px;
   max-width: 560px;
-  font-size: 20px;
+  font-size: 30px;
   font-weight: 300;
   color: #fff;
   word-break: break-word;
@@ -1612,11 +1612,11 @@ blockquote {
   left: 0;
   width: 100%;
   display: block;
-  font-size: 500px;
-  line-height: 90px;
+  font-size: 30px;
   font-weight: 500;
   color: #fff;
-  text-align: center
+  /* text-align: center; */
+  padding-left: 90px;
 }
 
 .section.started .started-content .h-subtitle strong,
@@ -1898,7 +1898,7 @@ blockquote {
   .section.started .started-content .typed-bread,
   .section.started .started-content .typed-subtitle {
     margin-top: -35px;
-    font-size: 60px;
+    font-size: 30px;
     line-height: 70px
   }
   .section.started.section-title .started-content .h-subtitle,
@@ -1955,14 +1955,13 @@ blockquote {
     left: 0;
     bottom: 30px;
     padding-right: 50px;
-    font-size: 17px
+    font-size: 20px
   }
   .section.started .started-content .h-subtitle,
   .section.started .started-content .typed-bread,
   .section.started .started-content .typed-subtitle {
-    margin-top: -20px;
-    font-size: 30px;
-    line-height: 40px
+    font-size: 10px;
+    line-height: 20px;
   }
   .section.started.section-title .started-content .h-title {
     font-size: 10vw;
@@ -5156,7 +5155,7 @@ object {
   top: 0;
   left: 50%;
   width: 100vw;
-  height: 100%;
+  height: 150%;
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover

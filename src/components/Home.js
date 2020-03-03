@@ -2,7 +2,7 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import React, { Component } from "react";
 import Typing from 'react-typing-animation';
-import bgimg from './z.png';
+import bgimg from '../images/bgyuvi.jpg';
 
 import '../css/App.css';
 class Home extends Component {
@@ -22,20 +22,19 @@ class Home extends Component {
                         <div className="vertical-center">
                             <div className="started-content">
                                 <h1 className="h-title">
-                                    Hello, I’m <strong>Yuvraj Upadhyay</strong> Blockchian Developer <br />
-                                    At Yudiz Solutions.
+                                    Hello, I’m <strong>Yuvraj Upadhyay</strong> Blockchian Developer At Yudiz Solutions.
                                 </h1>
                                 <div className="h-subtitle typing-subtitle">
-                                    <Typing loop={true}>
+                                    <Typing loop={true} hideCursor={true}>
                                         <h1 style={{ color: '#fff' }} >I code cool <strong>websites.</strong></h1>
                                         <Typing.Delay ms={4000} />
-                                        <Typing.Backspace count={25} />
+                                        <Typing.Backspace count={30} />
                                         <h1 style={{ color: '#fff' }}>I develop <strong>Backend apps.</strong></h1>
                                         <Typing.Delay ms={4000} />
-                                        <Typing.Backspace count={25} />
+                                        <Typing.Backspace count={30} />
                                         <h1 style={{ color: '#fff' }}>I love <strong>NodeJS.</strong></h1>
                                         <Typing.Delay ms={4000} />
-                                        <Typing.Backspace count={25} />
+                                        <Typing.Backspace count={15} />
                                     </Typing>
                                 </div>
                                 <span className="typed-subtitle"></span>
