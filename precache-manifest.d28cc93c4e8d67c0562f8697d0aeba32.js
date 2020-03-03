@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f2c01361bfb56f3e413870a52d6c4e42",
+    "revision": "3bd63207e7c47852b19c00530211528d",
     "url": "/yuvi76_portfolio/index.html"
   },
   {
-    "revision": "3b11b06c30bee2268817",
+    "revision": "431d34817366f9155411",
     "url": "/yuvi76_portfolio/static/css/main.3372929e.chunk.css"
   },
   {
-    "revision": "13eeddacf69cd9a9a5b5",
-    "url": "/yuvi76_portfolio/static/js/2.fad92a24.chunk.js"
+    "revision": "79514d4dd227a9f6b3ba",
+    "url": "/yuvi76_portfolio/static/js/2.0e4ced44.chunk.js"
   },
   {
     "revision": "e928fe768baa9832b5bc57eae021f30c",
-    "url": "/yuvi76_portfolio/static/js/2.fad92a24.chunk.js.LICENSE"
+    "url": "/yuvi76_portfolio/static/js/2.0e4ced44.chunk.js.LICENSE"
   },
   {
-    "revision": "3b11b06c30bee2268817",
-    "url": "/yuvi76_portfolio/static/js/main.28626836.chunk.js"
+    "revision": "431d34817366f9155411",
+    "url": "/yuvi76_portfolio/static/js/main.e6676262.chunk.js"
   },
   {
     "revision": "635b722120eeee80abef",
     "url": "/yuvi76_portfolio/static/js/runtime-main.398d565d.js"
+  },
+  {
+    "revision": "845e7565239b353f9b7c39205f0ed949",
+    "url": "/yuvi76_portfolio/static/media/CryptoCurrency-Is-Proving-The-Best-Gauge-Of-The-Coronavirus-Outbreak-After-China-Stats-Shock.845e7565.jpg"
   },
   {
     "revision": "f08384547028400008ce9a2a537aa199",
@@ -34,6 +38,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "7dff62e141dd754edba22809c0391ba8",
     "url": "/yuvi76_portfolio/static/media/voting1-blog-banner.7dff62e1.jpg"
+  },
+  {
+    "revision": "dbe9ef39eb408df0447f768acb03211c",
+    "url": "/yuvi76_portfolio/static/media/yuvi.dbe9ef39.jpg"
   },
   {
     "revision": "04e554b022cdfc784b5b2293792f1f55",
