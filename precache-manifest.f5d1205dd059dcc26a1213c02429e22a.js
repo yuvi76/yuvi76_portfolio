@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "04cdfad17bf4fea5017152ad8a619d75",
+    "revision": "c2a2f19e58ef151ffad057e33f75386e",
     "url": "/yuvi76_portfolio/index.html"
   },
   {
-    "revision": "34aa6c338765a53e72e1",
-    "url": "/yuvi76_portfolio/static/css/main.3372929e.chunk.css"
+    "revision": "cfb51d05139665c7e0bd",
+    "url": "/yuvi76_portfolio/static/css/main.2758c0bf.chunk.css"
   },
   {
     "revision": "067c3bd7ed326678628c",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yuvi76_portfolio/static/js/2.baf48cd0.chunk.js.LICENSE"
   },
   {
-    "revision": "34aa6c338765a53e72e1",
-    "url": "/yuvi76_portfolio/static/js/main.7de3bf3c.chunk.js"
+    "revision": "cfb51d05139665c7e0bd",
+    "url": "/yuvi76_portfolio/static/js/main.53050a97.chunk.js"
   },
   {
     "revision": "635b722120eeee80abef",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "845e7565239b353f9b7c39205f0ed949",
     "url": "/yuvi76_portfolio/static/media/CryptoCurrency-Is-Proving-The-Best-Gauge-Of-The-Coronavirus-Outbreak-After-China-Stats-Shock.845e7565.jpg"
+  },
+  {
+    "revision": "555ce257911de0f838b14f3a0c366ff5",
+    "url": "/yuvi76_portfolio/static/media/bgyuvi.555ce257.jpg"
   },
   {
     "revision": "f08384547028400008ce9a2a537aa199",
@@ -42,9 +46,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "dbe9ef39eb408df0447f768acb03211c",
     "url": "/yuvi76_portfolio/static/media/yuvi.dbe9ef39.jpg"
-  },
-  {
-    "revision": "04e554b022cdfc784b5b2293792f1f55",
-    "url": "/yuvi76_portfolio/static/media/z.04e554b0.png"
   }
 ]);

@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/yuvi76_portfolio/static/css/main.3372929e.chunk.css",
-    "main.js": "/yuvi76_portfolio/static/js/main.7de3bf3c.chunk.js",
-    "main.js.map": "/yuvi76_portfolio/static/js/main.7de3bf3c.chunk.js.map",
+    "main.css": "/yuvi76_portfolio/static/css/main.2758c0bf.chunk.css",
+    "main.js": "/yuvi76_portfolio/static/js/main.53050a97.chunk.js",
+    "main.js.map": "/yuvi76_portfolio/static/js/main.53050a97.chunk.js.map",
     "runtime-main.js": "/yuvi76_portfolio/static/js/runtime-main.398d565d.js",
     "runtime-main.js.map": "/yuvi76_portfolio/static/js/runtime-main.398d565d.js.map",
     "static/js/2.baf48cd0.chunk.js": "/yuvi76_portfolio/static/js/2.baf48cd0.chunk.js",
     "static/js/2.baf48cd0.chunk.js.map": "/yuvi76_portfolio/static/js/2.baf48cd0.chunk.js.map",
     "index.html": "/yuvi76_portfolio/index.html",
-    "precache-manifest.4c03d560ee6da3b3bddcb70d13a3e9cc.js": "/yuvi76_portfolio/precache-manifest.4c03d560ee6da3b3bddcb70d13a3e9cc.js",
+    "precache-manifest.f5d1205dd059dcc26a1213c02429e22a.js": "/yuvi76_portfolio/precache-manifest.f5d1205dd059dcc26a1213c02429e22a.js",
     "service-worker.js": "/yuvi76_portfolio/service-worker.js",
-    "static/css/main.3372929e.chunk.css.map": "/yuvi76_portfolio/static/css/main.3372929e.chunk.css.map",
+    "static/css/main.2758c0bf.chunk.css.map": "/yuvi76_portfolio/static/css/main.2758c0bf.chunk.css.map",
     "static/js/2.baf48cd0.chunk.js.LICENSE": "/yuvi76_portfolio/static/js/2.baf48cd0.chunk.js.LICENSE",
     "static/media/CryptoCurrency-Is-Proving-The-Best-Gauge-Of-The-Coronavirus-Outbreak-After-China-Stats-Shock.jpg": "/yuvi76_portfolio/static/media/CryptoCurrency-Is-Proving-The-Best-Gauge-Of-The-Coronavirus-Outbreak-After-China-Stats-Shock.845e7565.jpg",
+    "static/media/bgyuvi.jpg": "/yuvi76_portfolio/static/media/bgyuvi.555ce257.jpg",
     "static/media/building-a-restful-API-with-node.js-and-mongoDB-Atlas.jpg": "/yuvi76_portfolio/static/media/building-a-restful-API-with-node.js-and-mongoDB-Atlas.f0838454.jpg",
     "static/media/first-transaction-on-libra-blockchain.jpg": "/yuvi76_portfolio/static/media/first-transaction-on-libra-blockchain.cefcfb8b.jpg",
     "static/media/voting1-blog-banner.jpg": "/yuvi76_portfolio/static/media/voting1-blog-banner.7dff62e1.jpg",
-    "static/media/yuvi.jpg": "/yuvi76_portfolio/static/media/yuvi.dbe9ef39.jpg",
-    "static/media/z.png": "/yuvi76_portfolio/static/media/z.04e554b0.png"
+    "static/media/yuvi.jpg": "/yuvi76_portfolio/static/media/yuvi.dbe9ef39.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.398d565d.js",
     "static/js/2.baf48cd0.chunk.js",
-    "static/css/main.3372929e.chunk.css",
-    "static/js/main.7de3bf3c.chunk.js"
+    "static/css/main.2758c0bf.chunk.css",
+    "static/js/main.53050a97.chunk.js"
   ]
 }
