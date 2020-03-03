@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import b1 from '../images/voting1-blog-banner.jpg';
 import b2 from '../images/first-transaction-on-libra-blockchain.jpg';
 import b3 from '../images/building-a-restful-API-with-node.js-and-mongoDB-Atlas.jpg';
-
+import b4 from '../images/CryptoCurrency-Is-Proving-The-Best-Gauge-Of-The-Coronavirus-Outbreak-After-China-Stats-Shock.jpg';
 
 class Work extends Component {
 
@@ -21,6 +21,19 @@ class Work extends Component {
 						{/* <!-- portfolio items --> */}
 						<div className="box-items portfolio-items">
 							<ul className="cards">
+								<li className="cards_item">
+									<div className="card">
+										<div className="card_image"><img src={b4} alt="blog4" /></div>
+										<div className="card_content">
+											<h2 className="card_title">Cryptocurrency Is Proving The Best Gauge Of The Coronavirus Outbreak After China Stats Shock.</h2>
+											<p className="card_text">China has declared that they're going to be cleaning banknot...</p>
+											<a href="https://blog.yudiz.com/cryptocurrency_proving_as_best_gauge_of_coronavirus_outbreak_post_china_stats_shock/" className="btn hover-animated" >
+												<span className="lnk">Read Blog </span>
+											</a>
+											<p className="card_text">2nd Mar 2020</p>
+										</div>
+									</div>
+								</li>
 								<li className="cards_item">
 									<div className="card">
 										<div className="card_image"><img src={b3} alt="blog3" /></div>
@@ -75,7 +88,7 @@ class Work extends Component {
 								<li className="cards_item">
 									<div className="card">
 										<a href="https://cmbs.in" >
-										<div className="card_image"><img src={b3} alt="blog3" /></div>
+											<div className="card_image"><img src={b3} alt="blog3" /></div>
 											<div className="card_content">
 												<h2 className="card_title"><center>CMBS.IN</center></h2>
 											</div>

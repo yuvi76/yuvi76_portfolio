@@ -1,7 +1,7 @@
 /* eslint-disable react/style-prop-object */
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import React, { Component } from "react";
-import Proimg from './z.png';
+import Proimg from '../images/yuvi.jpg';
 import { faCheck, faBaseballBall, faCampground, faHeadphones, faHorseHead } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import '../css/App.css';
