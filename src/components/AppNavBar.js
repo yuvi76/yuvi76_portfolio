@@ -37,7 +37,7 @@ class AppNavbar extends Component {
 
 							{/* <!-- logo --> */}
 							<div className="logo hover-masks-logo">
-								<a href="#">
+								<a >
 									<span className="mask-lnk"><strong>Yuvraj Upadhyay</strong></span>
 									<span className="mask-lnk mask-lnk-hover">Download <strong>CV</strong></span>
 								</a>
