@@ -37,7 +37,7 @@ class About extends Component {
                             </div>
 
                             <div className="bts">
-                                <a href="#" className="btn hover-animated">
+                                <a className="btn hover-animated">
                                     <span className="lnk">Download CV</span>
                                 </a>
                             </div>
