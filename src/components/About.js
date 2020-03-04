@@ -31,8 +31,8 @@ class About extends Component {
                                     <li><strong>Age:</strong> 24</li>
                                     <li><strong>Residence:</strong> INDIA</li>
                                     <li><strong>Address:</strong> Ahmedabad</li>
-                                    <li><strong>Phone:</strong><a href="tel:+917600104483"> +91 7600104483</a></li>
-                                    <li><strong>E-mail:</strong><a href="mailto:upadhyayyuvi@gmail.com"> updhyayyuvi@gmail.com</a></li>
+                                    <li><strong>Phone:</strong> <a href="tel:+917600104483">+91 7600104483</a></li>
+                                    <li><strong>E-mail:</strong> <a href="mailto:upadhyayyuvi@gmail.com">updhyayyuvi@gmail.com</a></li>
                                 </ul>
                             </div>
 
