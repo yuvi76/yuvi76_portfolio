@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/yuvi76_portfolio/static/css/main.bddf3396.chunk.css",
+    "main.css": "/yuvi76_portfolio/static/css/main.65598ec3.chunk.css",
     "main.js": "/yuvi76_portfolio/static/js/main.87bcb5bf.chunk.js",
     "main.js.map": "/yuvi76_portfolio/static/js/main.87bcb5bf.chunk.js.map",
     "runtime-main.js": "/yuvi76_portfolio/static/js/runtime-main.398d565d.js",
@@ -8,9 +8,9 @@
     "static/js/2.c868a434.chunk.js": "/yuvi76_portfolio/static/js/2.c868a434.chunk.js",
     "static/js/2.c868a434.chunk.js.map": "/yuvi76_portfolio/static/js/2.c868a434.chunk.js.map",
     "index.html": "/yuvi76_portfolio/index.html",
-    "precache-manifest.5c294e9c122611a358e0b2c706f2ebf1.js": "/yuvi76_portfolio/precache-manifest.5c294e9c122611a358e0b2c706f2ebf1.js",
+    "precache-manifest.2645edd7ba9535b1f1f4be480e642e5c.js": "/yuvi76_portfolio/precache-manifest.2645edd7ba9535b1f1f4be480e642e5c.js",
     "service-worker.js": "/yuvi76_portfolio/service-worker.js",
-    "static/css/main.bddf3396.chunk.css.map": "/yuvi76_portfolio/static/css/main.bddf3396.chunk.css.map",
+    "static/css/main.65598ec3.chunk.css.map": "/yuvi76_portfolio/static/css/main.65598ec3.chunk.css.map",
     "static/js/2.c868a434.chunk.js.LICENSE": "/yuvi76_portfolio/static/js/2.c868a434.chunk.js.LICENSE",
     "static/media/CryptoCurrency-Is-Proving-The-Best-Gauge-Of-The-Coronavirus-Outbreak-After-China-Stats-Shock.jpg": "/yuvi76_portfolio/static/media/CryptoCurrency-Is-Proving-The-Best-Gauge-Of-The-Coronavirus-Outbreak-After-China-Stats-Shock.845e7565.jpg",
     "static/media/bgyuvi.jpg": "/yuvi76_portfolio/static/media/bgyuvi.555ce257.jpg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.398d565d.js",
     "static/js/2.c868a434.chunk.js",
-    "static/css/main.bddf3396.chunk.css",
+    "static/css/main.65598ec3.chunk.css",
     "static/js/main.87bcb5bf.chunk.js"
   ]
 }
