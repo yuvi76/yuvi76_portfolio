@@ -1,6 +1,6 @@
 /* eslint-disable react/jsx-no-target-blank */
 import React, { Component } from 'react';
-import { faFacebookF, faInstagram, faLinkedin, faGithub } from "@fortawesome/free-brands-svg-icons"
+import { faInstagram, faLinkedin, faGithub,faFacebook } from "@fortawesome/free-brands-svg-icons"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 export class Footer extends Component {
@@ -10,14 +10,14 @@ export class Footer extends Component {
                 {/* <!-- Footer --> */}
                 <footer className="footer">
                     <div className="copy">
-                        <p>E: upadhyayyuvi@gmail.com</p>
-                        <p>T: +91 7600104483</p>
+                        <p>E:<strong>upadhyayyuvi@gmail.com</strong></p>
+                        <p>T:<strong> +91 7600104483</strong></p>
                     </div>
                     <div className="soc-box">
-                        <div className="follow-label">Follow Me</div>
+                        <div className="follow-label"><strong>Follow Me</strong></div>
                         <div className="soc">
                             <a target="_blank" href="https://www.facebook.com/">
-                                <FontAwesomeIcon icon={faFacebookF} />
+                                <FontAwesomeIcon icon={faFacebook} />
                             </a>
                             <a target="_blank" href="https://www.instagram.com/yuvi76">
                                 <FontAwesomeIcon icon={faInstagram} />

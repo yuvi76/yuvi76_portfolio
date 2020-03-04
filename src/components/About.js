@@ -25,7 +25,7 @@ class About extends Component {
 
                         {/* <!-- desc --> */}
                         <div className="desc">
-                            <p>Hello! I’m Yuvraj Upadhyay. I have rich experience in web site building, also I am good at backend app. I love to talk with you about our unique.</p>
+                            <p>Hello! I’m Yuvraj Upadhyay. I have rich experience in web site building, also I am good at backend app. I would love talk with you and we can share our unique ideas with each other.</p>
                             <div className="info-list">
                                 <ul>
                                     <li><strong>Age:</strong> 24</li>

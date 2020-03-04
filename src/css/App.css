@@ -19,7 +19,7 @@ body {
   margin: 0;
   padding: 0;
   border: none;
-  font-family: Roboto;
+  font-family: Palatino;
   font-size: 16px;
   line-height: 1.5;
   color: #bbb;
@@ -390,7 +390,7 @@ h6 {
 } */
 
 p {
-  font-size: 16px;
+  font-size: 20px;
   padding: 0;
   margin: 30px 0
 }
@@ -1038,7 +1038,7 @@ blockquote {
 }
 
 .header .head-top {
-  position: relative
+  position: relative;
 }
 
 .header .menu-btn {
@@ -1460,8 +1460,9 @@ blockquote {
 @media (max-width:720px) {
   .header {
     margin: 0;
-    padding: 0 30px;
-    top: 30px
+    padding: 20px 20px 0 20px;
+    top: 0;
+    background: #101010;
   }
   .header .logo {
     padding: 0;
@@ -4559,9 +4560,9 @@ object {
 .footer .copy,
 .footer p {
   margin: 2px 0 0 0;
-  font-size: 14px;
+  font-size: 20px;
   line-height: 2;
-  color: #bbb
+  color: #fff
 }
 
 .footer .soc-box {
@@ -4574,9 +4575,10 @@ object {
 
 .footer .soc a {
   display: block;
-  margin-bottom: 20px;
+  margin-bottom: 25px;
   text-align: center;
-  color: #bbb;
+  color: #fff;
+  font-size: 25px;
   transition: all .7s cubic-bezier(.165, .85, .45, 1);
   -moz-transition: all .7s cubic-bezier(.165, .85, .45, 1);
   -webkit-transition: all .7s cubic-bezier(.165, .85, .45, 1);
@@ -4588,11 +4590,12 @@ object {
 }
 
 .footer .soc a .icon {
-  font-size: 18px;
-  color: #bbb
+  font-size: 25px;
+  color: #fff
 }
 
 .footer .soc a:hover {
+  font-size: 40px;
   color: #fff;
   opacity: 1
 }
@@ -4606,8 +4609,8 @@ object {
   position: absolute;
   bottom: 100%;
   right: 0;
-  color: #bbb;
-  font-size: 14px;
+  color: #fff;
+  font-size: 20px;
   line-height: 24px;
   height: 24px;
   white-space: nowrap;
@@ -4637,7 +4640,7 @@ object {
     display: none
   }
   .footer {
-    padding: 50px 0;
+    padding: 25px 0;
     position: relative;
     top: 0;
     bottom: auto;
