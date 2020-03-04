@@ -10,8 +10,8 @@ export class Footer extends Component {
                 {/* <!-- Footer --> */}
                 <footer className="footer">
                     <div className="copy">
-                        <p>E:<strong>upadhyayyuvi@gmail.com</strong></p>
-                        <p>T:<strong> +91 7600104483</strong></p>
+                        <p>E:<strong><a href="mailto:upadhyayyuvi@gmail.com">upadhyayyuvi@gmail.com</a></strong></p>
+                        <p>T:<strong><a href="tel:+917600104483"> +91 7600104483</a></strong></p>
                     </div>
                     <div className="soc-box">
                         <div className="follow-label"><strong>Follow Me</strong></div>

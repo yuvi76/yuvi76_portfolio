@@ -22,7 +22,7 @@ class Contact extends Component {
 							<div className="service-item content-box">
 								<div className="icon"><FontAwesomeIcon icon={faPhone} /></div>
 								<div className="name">Phone</div>
-								<div className="text">+91 7600104483</div>
+								<div className="text"><a href="tel:+917600104483">+91 7600104483</a></div>
 							</div>
 						</div>
 						
