@@ -16,10 +16,10 @@ export class Footer extends Component {
                     <div className="soc-box">
                         <div className="follow-label"><strong>Follow Me</strong></div>
                         <div className="soc">
-                            <a target="_blank" href="https://www.facebook.com/">
+                            <a target="_blank" href="https://www.facebook.com/yuvraj.upadhyay.1">
                                 <FontAwesomeIcon icon={faFacebook} />
                             </a>
-                            <a target="_blank" href="https://www.instagram.com/yuvi76">
+                            <a target="_blank" href="https://www.instagram.com/yuvi76_">
                                 <FontAwesomeIcon icon={faInstagram} />
                             </a>
                             <a target="_blank" href="https://www.linkedin.com/in/yuvraj-upadhyay/">
