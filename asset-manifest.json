@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/yuvi76_portfolio/static/css/main.65598ec3.chunk.css",
-    "main.js": "/yuvi76_portfolio/static/js/main.cdde5f4d.chunk.js",
-    "main.js.map": "/yuvi76_portfolio/static/js/main.cdde5f4d.chunk.js.map",
+    "main.js": "/yuvi76_portfolio/static/js/main.895c411c.chunk.js",
+    "main.js.map": "/yuvi76_portfolio/static/js/main.895c411c.chunk.js.map",
     "runtime-main.js": "/yuvi76_portfolio/static/js/runtime-main.398d565d.js",
     "runtime-main.js.map": "/yuvi76_portfolio/static/js/runtime-main.398d565d.js.map",
     "static/js/2.c868a434.chunk.js": "/yuvi76_portfolio/static/js/2.c868a434.chunk.js",
     "static/js/2.c868a434.chunk.js.map": "/yuvi76_portfolio/static/js/2.c868a434.chunk.js.map",
     "index.html": "/yuvi76_portfolio/index.html",
-    "precache-manifest.dc5c56fa8ae9b5c6780e77bcbe1b2a95.js": "/yuvi76_portfolio/precache-manifest.dc5c56fa8ae9b5c6780e77bcbe1b2a95.js",
+    "precache-manifest.7870a4525e0587087ef54a83df33eeab.js": "/yuvi76_portfolio/precache-manifest.7870a4525e0587087ef54a83df33eeab.js",
     "service-worker.js": "/yuvi76_portfolio/service-worker.js",
     "static/css/main.65598ec3.chunk.css.map": "/yuvi76_portfolio/static/css/main.65598ec3.chunk.css.map",
     "static/js/2.c868a434.chunk.js.LICENSE": "/yuvi76_portfolio/static/js/2.c868a434.chunk.js.LICENSE",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.398d565d.js",
     "static/js/2.c868a434.chunk.js",
     "static/css/main.65598ec3.chunk.css",
-    "static/js/main.cdde5f4d.chunk.js"
+    "static/js/main.895c411c.chunk.js"
   ]
 }
