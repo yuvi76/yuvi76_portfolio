@@ -9791,3 +9791,13 @@ img {
   margin-bottom: 1.25rem;    
   font-weight: 400;
 }
+
+.navbar .nav-pills > li > a:hover {
+  color: white;
+}
+
+.navbar .nav-pills .active {
+  opacity: 1;
+   color:white ;
+   font-weight:bold;
+}

@@ -1,14 +1,13 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import React, { Component } from 'react';
-import { Link } from 'react-router-dom';
+import { NavLink } from 'react-router-dom';
 import '../css/App.css';
 
 class AppNavbar extends Component {
 	constructor(props) {
 		super(props);
 		this.state = {
-			isActive: false,
-			menuitem: 0
+			isActive: false
 		};
 	}
 	ToggleClass = (e) => {
@@ -17,10 +16,6 @@ class AppNavbar extends Component {
 
 	Closenav = (e) => {
 		this.setState({ isActive: false })
-	}
-
-	changeditem(value) {
-		this.setState({ menuitem: value })
 	}
 
 	render() {
@@ -47,20 +42,15 @@ class AppNavbar extends Component {
 							<div className="top-menu hover-masks">
 								<div className="top-menu-nav">
 									<div className="menu-topmenu-container">
-										<ul className="menu">
-											<li className={(this.state.menuitem === 0) ? 'menu-item current-menu-item' : 'menu-item'}>
-												<Link to='/portfolio/home' onClick={() => { this.changeditem(0); this.Closenav() }}>Home</Link>
-											</li>
-											<li className={(this.state.menuitem === 1) ? 'menu-item current-menu-item' : 'menu-item'}>
-												<Link to='/portfolio/about' onClick={() => { this.changeditem(1); this.Closenav() }}>Resume</Link>
-											</li>
-											<li className={(this.state.menuitem === 2) ? 'menu-item current-menu-item' : 'menu-item'}>
-												<Link to='/portfolio/work' onClick={() => { this.changeditem(2); this.Closenav() }}>Works</Link>
-											</li>
-											<li className={(this.state.menuitem === 3) ? 'menu-item current-menu-item' : 'menu-item'}>
-												<Link to='/portfolio/contact' onClick={() => { this.changeditem(3); this.Closenav() }}>Contact</Link>
-											</li>
-										</ul>
+										<nav className="navbar navbar-default navbar-static-top">
+											<ul className="nav nav-pills">
+												{/* Check the Css section for the selector */}
+												<li><NavLink to="/portfolio/home" activeClassName="active" onClick={() => {this.Closenav() }}>Home</NavLink></li>
+												<li><NavLink to="/portfolio/about" activeClassName="active" onClick={() => {this.Closenav() }}>Resume</NavLink></li>
+												<li><NavLink to="/portfolio/work" activeClassName="active" onClick={() => {this.Closenav() }}>Work</NavLink></li>
+												<li><NavLink to="/portfolio/contact" activeClassName="active" onClick={() => {this.Closenav() }}>Contact</NavLink></li>
+											</ul>
+										</nav>
 									</div>
 								</div>
 							</div>
