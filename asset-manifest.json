@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/yuvi76_portfolio/static/css/main.65598ec3.chunk.css",
-    "main.js": "/yuvi76_portfolio/static/js/main.6795fc38.chunk.js",
-    "main.js.map": "/yuvi76_portfolio/static/js/main.6795fc38.chunk.js.map",
+    "main.css": "/yuvi76_portfolio/static/css/main.5264c28b.chunk.css",
+    "main.js": "/yuvi76_portfolio/static/js/main.4a3f2f27.chunk.js",
+    "main.js.map": "/yuvi76_portfolio/static/js/main.4a3f2f27.chunk.js.map",
     "runtime-main.js": "/yuvi76_portfolio/static/js/runtime-main.398d565d.js",
     "runtime-main.js.map": "/yuvi76_portfolio/static/js/runtime-main.398d565d.js.map",
-    "static/js/2.c868a434.chunk.js": "/yuvi76_portfolio/static/js/2.c868a434.chunk.js",
-    "static/js/2.c868a434.chunk.js.map": "/yuvi76_portfolio/static/js/2.c868a434.chunk.js.map",
+    "static/js/2.26f8a094.chunk.js": "/yuvi76_portfolio/static/js/2.26f8a094.chunk.js",
+    "static/js/2.26f8a094.chunk.js.map": "/yuvi76_portfolio/static/js/2.26f8a094.chunk.js.map",
     "index.html": "/yuvi76_portfolio/index.html",
-    "precache-manifest.efa5e6395ed7f63e1090847dd7cdc67e.js": "/yuvi76_portfolio/precache-manifest.efa5e6395ed7f63e1090847dd7cdc67e.js",
+    "precache-manifest.791db8c944a51b2793d5cce71c4c39de.js": "/yuvi76_portfolio/precache-manifest.791db8c944a51b2793d5cce71c4c39de.js",
     "service-worker.js": "/yuvi76_portfolio/service-worker.js",
-    "static/css/main.65598ec3.chunk.css.map": "/yuvi76_portfolio/static/css/main.65598ec3.chunk.css.map",
-    "static/js/2.c868a434.chunk.js.LICENSE": "/yuvi76_portfolio/static/js/2.c868a434.chunk.js.LICENSE",
+    "static/css/main.5264c28b.chunk.css.map": "/yuvi76_portfolio/static/css/main.5264c28b.chunk.css.map",
+    "static/js/2.26f8a094.chunk.js.LICENSE": "/yuvi76_portfolio/static/js/2.26f8a094.chunk.js.LICENSE",
     "static/media/CryptoCurrency-Is-Proving-The-Best-Gauge-Of-The-Coronavirus-Outbreak-After-China-Stats-Shock.jpg": "/yuvi76_portfolio/static/media/CryptoCurrency-Is-Proving-The-Best-Gauge-Of-The-Coronavirus-Outbreak-After-China-Stats-Shock.845e7565.jpg",
     "static/media/bgyuvi.jpg": "/yuvi76_portfolio/static/media/bgyuvi.555ce257.jpg",
     "static/media/building-a-restful-API-with-node.js-and-mongoDB-Atlas.jpg": "/yuvi76_portfolio/static/media/building-a-restful-API-with-node.js-and-mongoDB-Atlas.f0838454.jpg",
@@ -21,8 +21,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.398d565d.js",
-    "static/js/2.c868a434.chunk.js",
-    "static/css/main.65598ec3.chunk.css",
-    "static/js/main.6795fc38.chunk.js"
+    "static/js/2.26f8a094.chunk.js",
+    "static/css/main.5264c28b.chunk.css",
+    "static/js/main.4a3f2f27.chunk.js"
   ]
 }
