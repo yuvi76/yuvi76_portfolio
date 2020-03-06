@@ -1460,7 +1460,7 @@ blockquote {
 @media (max-width:720px) {
   .header {
     margin: 0;
-    padding: 20px 20px 0 20px;
+    padding: 20px 20px 10px 20px;
     top: 0;
     background: #101010;
   }

@@ -1,6 +1,7 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import React, { Component } from 'react';
 import { NavLink } from 'react-router-dom';
+import logo from '../images/logo2.png';
 import '../css/App.css';
 
 class AppNavbar extends Component {
@@ -33,7 +34,7 @@ class AppNavbar extends Component {
 							{/* <!-- logo --> */}
 							<div className="logo hover-masks-logo">
 								<a >
-									<span className="mask-lnk"><strong>Yuvraj Upadhyay</strong></span>
+									<span className="mask-lnk"> <img src={logo} alt="" /></span>
 									<span className="mask-lnk mask-lnk-hover">Download <strong>CV</strong></span>
 								</a>
 							</div>
