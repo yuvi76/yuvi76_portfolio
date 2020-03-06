@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2f42fe35c5be6035a2ab8c0ac92a819f",
+    "revision": "f574d3e6daec273485a36ea79ccf1e2d",
     "url": "/yuvi76_portfolio/index.html"
   },
   {
-    "revision": "3f96036e59395cc86c82",
-    "url": "/yuvi76_portfolio/static/css/main.5264c28b.chunk.css"
+    "revision": "11cbffa748b0e7d44233",
+    "url": "/yuvi76_portfolio/static/css/main.3cfd08ad.chunk.css"
   },
   {
-    "revision": "1f9dbf8245b385d61060",
-    "url": "/yuvi76_portfolio/static/js/2.26f8a094.chunk.js"
+    "revision": "361747abd385a1aa262a",
+    "url": "/yuvi76_portfolio/static/js/2.c0adc4a7.chunk.js"
   },
   {
     "revision": "e928fe768baa9832b5bc57eae021f30c",
-    "url": "/yuvi76_portfolio/static/js/2.26f8a094.chunk.js.LICENSE"
+    "url": "/yuvi76_portfolio/static/js/2.c0adc4a7.chunk.js.LICENSE"
   },
   {
-    "revision": "3f96036e59395cc86c82",
-    "url": "/yuvi76_portfolio/static/js/main.4a3f2f27.chunk.js"
+    "revision": "11cbffa748b0e7d44233",
+    "url": "/yuvi76_portfolio/static/js/main.3141874f.chunk.js"
   },
   {
     "revision": "635b722120eeee80abef",
@@ -38,6 +38,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "cefcfb8b48059c06df4436fa7d98d026",
     "url": "/yuvi76_portfolio/static/media/first-transaction-on-libra-blockchain.cefcfb8b.jpg"
+  },
+  {
+    "revision": "5e7ca51f32b00578911e7c3624d521ff",
+    "url": "/yuvi76_portfolio/static/media/logo2.5e7ca51f.png"
   },
   {
     "revision": "7dff62e141dd754edba22809c0391ba8",
