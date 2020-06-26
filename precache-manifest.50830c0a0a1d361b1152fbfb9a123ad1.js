@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f574d3e6daec273485a36ea79ccf1e2d",
+    "revision": "d21fb586db9bcc8a2fd026ee7bd011b7",
     "url": "/yuvi76_portfolio/index.html"
   },
   {
-    "revision": "11cbffa748b0e7d44233",
+    "revision": "12b671ac5e4640f4ed40",
     "url": "/yuvi76_portfolio/static/css/main.3cfd08ad.chunk.css"
   },
   {
-    "revision": "361747abd385a1aa262a",
-    "url": "/yuvi76_portfolio/static/js/2.c0adc4a7.chunk.js"
+    "revision": "e18f569748e7fdd8d2d8",
+    "url": "/yuvi76_portfolio/static/js/2.35265a2e.chunk.js"
   },
   {
     "revision": "e928fe768baa9832b5bc57eae021f30c",
-    "url": "/yuvi76_portfolio/static/js/2.c0adc4a7.chunk.js.LICENSE"
+    "url": "/yuvi76_portfolio/static/js/2.35265a2e.chunk.js.LICENSE"
   },
   {
-    "revision": "11cbffa748b0e7d44233",
-    "url": "/yuvi76_portfolio/static/js/main.3141874f.chunk.js"
+    "revision": "12b671ac5e4640f4ed40",
+    "url": "/yuvi76_portfolio/static/js/main.bd7ff37f.chunk.js"
   },
   {
     "revision": "635b722120eeee80abef",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "845e7565239b353f9b7c39205f0ed949",
     "url": "/yuvi76_portfolio/static/media/CryptoCurrency-Is-Proving-The-Best-Gauge-Of-The-Coronavirus-Outbreak-After-China-Stats-Shock.845e7565.jpg"
+  },
+  {
+    "revision": "c8c55cf9be88d8a460f4b5fbb481dcb8",
+    "url": "/yuvi76_portfolio/static/media/Mebook-Logo.c8c55cf9.PNG"
   },
   {
     "revision": "555ce257911de0f838b14f3a0c366ff5",

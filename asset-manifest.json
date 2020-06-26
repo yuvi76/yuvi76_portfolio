@@ -1,18 +1,19 @@
 {
   "files": {
     "main.css": "/yuvi76_portfolio/static/css/main.3cfd08ad.chunk.css",
-    "main.js": "/yuvi76_portfolio/static/js/main.3141874f.chunk.js",
-    "main.js.map": "/yuvi76_portfolio/static/js/main.3141874f.chunk.js.map",
+    "main.js": "/yuvi76_portfolio/static/js/main.bd7ff37f.chunk.js",
+    "main.js.map": "/yuvi76_portfolio/static/js/main.bd7ff37f.chunk.js.map",
     "runtime-main.js": "/yuvi76_portfolio/static/js/runtime-main.398d565d.js",
     "runtime-main.js.map": "/yuvi76_portfolio/static/js/runtime-main.398d565d.js.map",
-    "static/js/2.c0adc4a7.chunk.js": "/yuvi76_portfolio/static/js/2.c0adc4a7.chunk.js",
-    "static/js/2.c0adc4a7.chunk.js.map": "/yuvi76_portfolio/static/js/2.c0adc4a7.chunk.js.map",
+    "static/js/2.35265a2e.chunk.js": "/yuvi76_portfolio/static/js/2.35265a2e.chunk.js",
+    "static/js/2.35265a2e.chunk.js.map": "/yuvi76_portfolio/static/js/2.35265a2e.chunk.js.map",
     "index.html": "/yuvi76_portfolio/index.html",
-    "precache-manifest.f51fac00df0be3af12ca5d848f0e969e.js": "/yuvi76_portfolio/precache-manifest.f51fac00df0be3af12ca5d848f0e969e.js",
+    "precache-manifest.50830c0a0a1d361b1152fbfb9a123ad1.js": "/yuvi76_portfolio/precache-manifest.50830c0a0a1d361b1152fbfb9a123ad1.js",
     "service-worker.js": "/yuvi76_portfolio/service-worker.js",
     "static/css/main.3cfd08ad.chunk.css.map": "/yuvi76_portfolio/static/css/main.3cfd08ad.chunk.css.map",
-    "static/js/2.c0adc4a7.chunk.js.LICENSE": "/yuvi76_portfolio/static/js/2.c0adc4a7.chunk.js.LICENSE",
+    "static/js/2.35265a2e.chunk.js.LICENSE": "/yuvi76_portfolio/static/js/2.35265a2e.chunk.js.LICENSE",
     "static/media/CryptoCurrency-Is-Proving-The-Best-Gauge-Of-The-Coronavirus-Outbreak-After-China-Stats-Shock.jpg": "/yuvi76_portfolio/static/media/CryptoCurrency-Is-Proving-The-Best-Gauge-Of-The-Coronavirus-Outbreak-After-China-Stats-Shock.845e7565.jpg",
+    "static/media/Mebook-Logo.PNG": "/yuvi76_portfolio/static/media/Mebook-Logo.c8c55cf9.PNG",
     "static/media/bgyuvi.jpg": "/yuvi76_portfolio/static/media/bgyuvi.555ce257.jpg",
     "static/media/building-a-restful-API-with-node.js-and-mongoDB-Atlas.jpg": "/yuvi76_portfolio/static/media/building-a-restful-API-with-node.js-and-mongoDB-Atlas.f0838454.jpg",
     "static/media/first-transaction-on-libra-blockchain.jpg": "/yuvi76_portfolio/static/media/first-transaction-on-libra-blockchain.cefcfb8b.jpg",
@@ -22,8 +23,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.398d565d.js",
-    "static/js/2.c0adc4a7.chunk.js",
+    "static/js/2.35265a2e.chunk.js",
     "static/css/main.3cfd08ad.chunk.css",
-    "static/js/main.3141874f.chunk.js"
+    "static/js/main.bd7ff37f.chunk.js"
   ]
 }
